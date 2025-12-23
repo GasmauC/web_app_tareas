@@ -1,0 +1,12 @@
+# Ignorar la carpeta del entorno virtual (MUY IMPORTANTE)
+.venv/
+
+# Ignorar base de datos local (para no subir tus datos de prueba)
+*.sqlite3
+
+# Ignorar archivos compilados de Python y carpetas de caché
+__pycache__/
+*.py[cod]
+
+# Ignorar configuración local del editor PyCharm
+.idea/
