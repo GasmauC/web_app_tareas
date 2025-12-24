@@ -18,7 +18,7 @@ Aplicación web completa para la gestión de tareas personales ("To-Do List"), d
 * **IDE:** PyCharm.
 
 ## 📸 Vistas del Proyecto
-![Sistema de Gestión de Tareas con Django Screenshot](web.png)
+![Sistema de Gestión de Tareas con Django Screenshot](web.jpg)
 
 El proyecto incluye vistas protegidas que requieren inicio de sesión (`@login_required`) y formularios personalizados para la gestión de datos.
 
